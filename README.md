@@ -1,8 +1,32 @@
-<div style="clear: both;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=illyism&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illyism" />
-</a>
-</div>
+```
+                 __..-----')
+       ,.--._ .-'_..--...-'
+      '-"'. _/_ /  ..--''""'-.
+      _.--""...:._:(_ ..:"::. \
+   .-' ..::--""_(##)#)"':. \ \)    \ _|_ /
+  /_:-:'/  :__(##)##)    ): )   '-./'   '\.-'
+  "  / |  :' :/""\///)  /:.'    --(       )--
+    / :( :( :(   (#//)  "       .-'\.___./'-.
+   / :/|\ :\_:\   \#//\            /  |  \
+   |:/ | ""--':\   (#//)              '
+   \/  \ :|  \ :\  (#//)
+        \:\   '.':. \#//\
+         ':|    "--'(#///)
+                    (#///)
+                    (#///)
+                     \#///\
+                     (##///)
+                     (##///)
+                     (##///)
+                     (##///)
+                      \##///\
+                      (###///)
+                      (sjw////)__...-----....__
+                      (#/::'''                 ""--.._
+                 __..-'''                             "-._
+         __..--""                                         '._
+___..--""                                                    "-..____
+  (_ ""---....___                                     __...--"" _)
+    """--...  ___"""""-----......._______......----"""     --"""
+                  """"       ---.....   ___....----
+```
